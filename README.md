@@ -6,10 +6,40 @@
 - [Curriculum-Humanities](#curriculum-humanities)
 
 ## Introduction
-Inspired by [OSSU's Computer Science curriculum](https://github.com/ossu/computer-science), this is my attempt at cobbling together an education in Science and the Humanities. The 'Science' portion wll focus on principles of the respective scientific fields. Courses that focus on application of scientific principles like engineering will be hosted on [MOOC](https://github.com/khkhiu/MOOC) repository. The 'Humanities' portion will focus on Philosophy, Politics, Economics and History, with a few other fields sprinkled throughout.
+Inspired by [OSSU's Computer Science curriculum](https://github.com/ossu/computer-science), this is my attempt at cobbling together an education in Science and the Humanities. The 'Science' portion wll focus on principles of the respective scientific fields. Computing related courses will be hosted on [MOOC](https://github.com/khkhiu/MOOC) repository. The 'Humanities' portion will focus on Philosophy, Politics, Economics and History, with a few other fields sprinkled throughout.
 
 
 ## Curriculum-Science
+
+### Physics and Astronomy
+
+Physics and astronomy courses explore the dynamics of matter in motion and the nature of planets, stars, moons, and asteroids. Subtopics include the
+study of astrophysics, the history of the universe, and applied and theoretical physics.
+
+**Topics covered**:
+`Physics`
+`Space`
+
+Specialization | Duration | Effort | Offered by 
+:-- | :--: | :--: | :--: |
+[Introduction to Electricity and Magnetism Specialization](https://www.coursera.org/specializations/introduction-to-electricity-magnetism) | 2 Months | 10 hours/week | [Rice University](https://www.coursera.org/rice)
+
+Courses | Duration | Effort | Offered by 
+:-- | :--: | :--: | :--: |
+[A Brief History of Human Spaceflight](https://www.coursera.org/learn/human-spaceflight) | 3 weeks | 6 hours/week | [University of Houston](https://www.coursera.org/uh)
+[Space Safety](https://www.coursera.org/learn/spacesafety) | 3 weeks | 6 hours/week | [Technische Universität München (TUM)](https://www.coursera.org/tum)
+
+### Mathematics
+
+The study of math and logic combines the abstract science of numbers with quantitative reasoning that is fundamental in solving concrete problems.
+
+**Topics covered**:
+`Mathematics`
+`Logic`
+
+Courses | Duration | Effort | Offered by 
+:-- | :--: | :--: | :--: |
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 3 weeks | 12 hours/week | [Stanford University](https://www.coursera.org/stanford)
 
 ## Curriculum-Humanities
 
