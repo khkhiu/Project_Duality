@@ -25,6 +25,32 @@ Courses | Duration | Effort | Offered by
 :-- | :--: | :--: | :--: |
 [Introduction to Philosophy](https://www.coursera.org/learn/philosophy) | 3 weeks | 6 hours/week | [The University of Edinburgh](https://www.coursera.org/edinburgh)
 
+### Politics (Governance and Society)
+
+Governance and society courses address the role of governments and the behaviors of individuals and societies, both normal and abnormal. Subtopics
+include international relations, policy, criminology, and racial and ethnic relations.
+
+**Topics covered**:
+`Politics`
+`International Relations`
+
+Courses | Duration | Effort | Offered by 
+:-- | :--: | :--: | :--: |
+[Global Politics](https://www.coursera.org/learn/global-politics) | 3 weeks | 3 hours | [Università di Napoli Federico II](https://www.coursera.org/unina)
+
+### Economics
+
+Economics courses explore how individuals and groups manage resources and react to scarcity. Subtopics include personal economics, economic policy,
+international economics, and economic development.
+
+**Topics covered**:
+`Economics`
+
+Courses | Duration | Effort | Offered by 
+:-- | :--: | :--: | :--: |
+[Introduction to Economic Theories](https://www.coursera.org/learn/intro-economic-theories) | 3 weeks | 13 hours | [Erasmus University Rotterdam](https://www.coursera.org/erasmus)
+
+
 ### History
 
 History courses investigate ancient and modern events and social trends. Explore themes such as war, imperialism, and globalization, and study the
@@ -37,3 +63,14 @@ Courses | Duration | Effort | Offered by
 :-- | :--: | :--: | :--: |
 [The Modern World, Part One: Global History from 1760 to 1910](https://www.coursera.org/learn/modern-world) | 3 weeks | 5 hours | [University of Virginia](https://www.coursera.org/uva)
 [The Modern World, Part Two: Global History since 1910](https://www.coursera.org/learn/modern-world-2) | 3 weeks | 6 hours | [University of Virginia](https://www.coursera.org/uva)
+
+### Other Humanities
+
+This section will contain courses that do not fall into the other humanities categories.
+
+**Topics covered**:
+`Psychology`
+
+Courses | Duration | Effort | Offered by 
+:-- | :--: | :--: | :--: |
+[Introduction to Psychology ](https://www.coursera.org/learn/introduction-psychology) | 3 weeks | 4 hours | [Yale University](https://www.coursera.org/yale)
