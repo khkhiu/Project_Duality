@@ -20,6 +20,20 @@ Explore the field's eastern and western traditions, including specific schools o
 
 **Topics covered**:
 `Philosophy`
+
 Courses | Duration | Effort | Offered by 
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--: |
 [Introduction to Philosophy](https://www.coursera.org/learn/philosophy) | 3 weeks | 6 hours/week | [The University of Edinburgh](https://www.coursera.org/edinburgh)
+
+### History
+
+History courses investigate ancient and modern events and social trends. Explore themes such as war, imperialism, and globalization, and study the
+history of specific groups or time periods through courses on black history, women's history, and more.
+
+**Topics covered**:
+`History`
+
+Courses | Duration | Effort | Offered by 
+:-- | :--: | :--: | :--: |
+[The Modern World, Part One: Global History from 1760 to 1910](https://www.coursera.org/learn/modern-world) | 3 weeks | 5 hours | [University of Virginia](https://www.coursera.org/uva)
+[The Modern World, Part Two: Global History since 1910](https://www.coursera.org/learn/modern-world-2) | 3 weeks | 6 hours | [University of Virginia](https://www.coursera.org/uva)
