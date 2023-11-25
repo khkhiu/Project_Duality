@@ -27,7 +27,6 @@ Specialization | Duration | Effort | Offered by
 Courses | Duration | Effort | Offered by 
 :-- | :--: | :--: | :--: |
 [A Brief History of Human Spaceflight](https://www.coursera.org/learn/human-spaceflight) | 3 weeks | 6 hours/week | [University of Houston](https://www.coursera.org/uh)
-[Space Safety](https://www.coursera.org/learn/spacesafety) | 3 weeks | 6 hours/week | [Technische Universität München (TUM)](https://www.coursera.org/tum)
 
 ### Mathematics
 
