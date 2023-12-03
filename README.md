@@ -24,11 +24,10 @@ Specialization | Duration | Offered by | Link to certificate
 :-- | :--: | :--: | :--: |
 [Introduction to Electricity and Magnetism Specialization](https://www.coursera.org/specializations/introduction-to-electricity-magnetism) | 2 Months, 10 hours/week | [Rice University](https://www.coursera.org/rice) | 
 
-Courses | Duration | Effort | Offered by 
+Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[A Brief History of Human Spaceflight](https://www.coursera.org/learn/human-spaceflight) | 3 weeks | 6 hours/week | [University of Houston](https://www.coursera.org/uh)
-[Space Safety](https://www.coursera.org/learn/spacesafety) | 3 weeks | 6 hours/week | [Technische Universität München (TUM)](https://www.coursera.org/tum)
-
+[A Brief History of Human Spaceflight](https://www.coursera.org/learn/human-spaceflight) | 3 weeks, 6 hours/week  | [University of Houston](https://www.coursera.org/uh) | [Link](https://coursera.org/share/40b814efe160cf4b872c3c81363d9ba4)
+[Space Safety](https://www.coursera.org/learn/spacesafety) | 3 weeks, 6 hours/week | [Technische Universität München (TUM)](https://www.coursera.org/tum) | 
 ### Mathematics
 
 The study of math and logic combines the abstract science of numbers with quantitative reasoning that is fundamental in solving concrete problems.
@@ -37,9 +36,9 @@ The study of math and logic combines the abstract science of numbers with quanti
 `Mathematics`
 `Logic`
 
-Courses | Duration | Effort | Offered by 
+Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 3 weeks | 12 hours/week | [Stanford University](https://www.coursera.org/stanford)
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 3 weeks, 12 hours/week | [Stanford University](https://www.coursera.org/stanford) | 
 
 ## Curriculum-Humanities
 
@@ -51,9 +50,9 @@ Explore the field's eastern and western traditions, including specific schools o
 **Topics covered**:
 `Philosophy`
 
-Courses | Duration | Effort | Offered by 
+Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Introduction to Philosophy](https://www.coursera.org/learn/philosophy) | 3 weeks | 6 hours/week | [The University of Edinburgh](https://www.coursera.org/edinburgh)
+[Introduction to Philosophy](https://www.coursera.org/learn/philosophy) | 3 weeks, 6 hours/week | [The University of Edinburgh](https://www.coursera.org/edinburgh) | 
 
 ### Politics (Governance and Society)
 
@@ -64,9 +63,9 @@ include international relations, policy, criminology, and racial and ethnic rela
 `Politics`
 `International Relations`
 
-Courses | Duration | Effort | Offered by 
+Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Global Politics](https://www.coursera.org/learn/global-politics) | 3 weeks | 3 hours | [Università di Napoli Federico II](https://www.coursera.org/unina)
+[Global Politics](https://www.coursera.org/learn/global-politics) | 3 weeks, 3 hours | [Università di Napoli Federico II](https://www.coursera.org/unina) | 
 
 ### Economics
 
@@ -76,9 +75,9 @@ international economics, and economic development.
 **Topics covered**:
 `Economics`
 
-Courses | Duration | Effort | Offered by 
+Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Introduction to Economic Theories](https://www.coursera.org/learn/intro-economic-theories) | 3 weeks | 13 hours | [Erasmus University Rotterdam](https://www.coursera.org/erasmus)
+[Introduction to Economic Theories](https://www.coursera.org/learn/intro-economic-theories) | 3 weeks, 13 hours | [Erasmus University Rotterdam](https://www.coursera.org/erasmus) | 
 
 
 ### History
@@ -89,10 +88,10 @@ history of specific groups or time periods through courses on black history, wom
 **Topics covered**:
 `History`
 
-Courses | Duration | Effort | Offered by 
+Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[The Modern World, Part One: Global History from 1760 to 1910](https://www.coursera.org/learn/modern-world) | 3 weeks | 5 hours | [University of Virginia](https://www.coursera.org/uva)
-[The Modern World, Part Two: Global History since 1910](https://www.coursera.org/learn/modern-world-2) | 3 weeks | 6 hours | [University of Virginia](https://www.coursera.org/uva)
+[The Modern World, Part One: Global History from 1760 to 1910](https://www.coursera.org/learn/modern-world) | 3 weeks, 5 hours | [University of Virginia](https://www.coursera.org/uva) | 
+[The Modern World, Part Two: Global History since 1910](https://www.coursera.org/learn/modern-world-2) | 3 weeks, 6 hours | [University of Virginia](https://www.coursera.org/uva) | 
 
 ### Other Humanities
 
@@ -101,6 +100,6 @@ This section will contain courses that do not fall into the other humanities cat
 **Topics covered**:
 `Psychology`
 
-Courses | Duration | Effort | Offered by 
+Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Introduction to Psychology ](https://www.coursera.org/learn/introduction-psychology) | 3 weeks | 4 hours | [Yale University](https://www.coursera.org/yale)
+[Introduction to Psychology ](https://www.coursera.org/learn/introduction-psychology) | 6 weeks, 4 hours | [Yale University](https://www.coursera.org/yale) | 
