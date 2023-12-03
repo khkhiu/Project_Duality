@@ -20,9 +20,9 @@ study of astrophysics, the history of the universe, and applied and theoretical 
 `Physics`
 `Space`
 
-Specialization | Duration | Effort | Offered by 
+Specialization | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Introduction to Electricity and Magnetism Specialization](https://www.coursera.org/specializations/introduction-to-electricity-magnetism) | 2 Months | 10 hours/week | [Rice University](https://www.coursera.org/rice)
+[Introduction to Electricity and Magnetism Specialization](https://www.coursera.org/specializations/introduction-to-electricity-magnetism) | 2 Months, 10 hours/week | [Rice University](https://www.coursera.org/rice) | 
 
 Courses | Duration | Effort | Offered by 
 :-- | :--: | :--: | :--: |
