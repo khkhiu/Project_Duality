@@ -103,4 +103,4 @@ This section will contain courses that do not fall into the other humanities cat
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Introduction to Psychology ](https://www.coursera.org/learn/introduction-psychology) | 6 weeks | [Yale University](https://www.coursera.org/yale) | 
+[Introduction to Psychology ](https://www.coursera.org/learn/introduction-psychology) | 6 weeks | [Yale University](https://www.coursera.org/yale) | [Link](https://coursera.org/share/e728475a312069809b34cea529778404)
