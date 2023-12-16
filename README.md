@@ -26,7 +26,7 @@ Specialization | Duration | Offered by | Link to certificate
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[A Brief History of Human Spaceflight](https://www.coursera.org/learn/human-spaceflight) | 11 weeks | [University of Houston](https://www.coursera.org/uh) | [Link](https://coursera.org/share/40b814efe160cf4b872c3c81363d9ba4)
+[A Brief History of Human Spaceflight](https://www.coursera.org/learn/human-spaceflight) | 11 weeks | [University of Houston](https://www.coursera.org/uh) | [Link](https://coursera.org/share/55e421409dfcd611c0952285844b4c67)
 [Space Safety](https://www.coursera.org/learn/spacesafety) | 9 weeks | [Technische Universität München (TUM)](https://www.coursera.org/tum) | 
 ### Mathematics
 
@@ -103,4 +103,4 @@ This section will contain courses that do not fall into the other humanities cat
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Introduction to Psychology ](https://www.coursera.org/learn/introduction-psychology) | 6 weeks | [Yale University](https://www.coursera.org/yale) | [Link](https://coursera.org/share/e728475a312069809b34cea529778404)
+[Introduction to Psychology ](https://www.coursera.org/learn/introduction-psychology) | 6 weeks | [Yale University](https://www.coursera.org/yale) | [Link](https://coursera.org/share/70f6bfee4e07b388bf3ac37bda95e6ee)
