@@ -52,7 +52,7 @@ Explore the field's eastern and western traditions, including specific schools o
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Introduction to Philosophy](https://www.coursera.org/learn/philosophy) | 5 weeks | [The University of Edinburgh](https://www.coursera.org/edinburgh) | 
+[Introduction to Philosophy](https://www.coursera.org/learn/philosophy) | 5 weeks | [The University of Edinburgh](https://www.coursera.org/edinburgh) | https://coursera.org/share/18c6fda9284ee2227e81ef54ca6062fb
 
 ### Politics (Governance and Society)
 
