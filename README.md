@@ -90,7 +90,7 @@ history of specific groups or time periods through courses on black history, wom
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[The Modern World, Part One: Global History from 1760 to 1910](https://www.coursera.org/learn/modern-world) | 7 weeks | [University of Virginia](https://www.coursera.org/uva) | 
+[The Modern World, Part One: Global History from 1760 to 1910](https://www.coursera.org/learn/modern-world) | 7 weeks | [University of Virginia](https://www.coursera.org/uva) | https://coursera.org/share/aa722d9f7456a521ad6d455eddfbca92
 [The Modern World, Part Two: Global History since 1910](https://www.coursera.org/learn/modern-world-2) | 7 weeks | [University of Virginia](https://www.coursera.org/uva) | 
 
 ### Other Humanities
