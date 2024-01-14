@@ -6,7 +6,7 @@
 - [Curriculum-Humanities](#curriculum-humanities)
 
 ## Introduction
-Inspired by [OSSU's Computer Science curriculum](https://github.com/ossu/computer-science), this is my attempt at cobbling together an education in Science and the Humanities. The 'Science' portion wll focus on principles of the respective scientific fields. Computing related courses will be hosted on [MOOC](https://github.com/khkhiu/MOOC) repository. The 'Humanities' portion will focus on Philosophy, Politics, Economics and History, with a few other fields sprinkled throughout.
+Inspired by [OSSU's Computer Science curriculum](https://github.com/ossu/computer-science), this is my attempt at creating a self-taught education in Science and the Humanities. The 'Science' portion will focus on principles of their respective scientific fields. Computing related courses will be hosted on [MOOC](https://github.com/khkhiu/MOOC) repository. The 'Humanities' portion will focus on Philosophy, Politics, Economics and History, with a few other fields sprinkled throughout.
 
 
 ## Curriculum-Science
