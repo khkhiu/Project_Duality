@@ -38,7 +38,7 @@ The study of math and logic combines the abstract science of numbers with quanti
 
 Specialization | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics) <br>Constituent Courses <br> - [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | 2 Months | [University of California - San Diego](https://www.coursera.org/ucsd) | 
+[Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics) <br><br>Constituent Courses <br> - [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) <br> - [Combinatorics and Probability](https://www.coursera.org/learn/combinatorics) <br> - [Introduction to Graph Theory](https://www.coursera.org/learn/graphs) <br> - [Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)<br> - [Delivery Problem](https://www.coursera.org/learn/delivery-problem)| 2 Months | [University of California - San Diego](https://www.coursera.org/ucsd) | 
 
 ## Curriculum-Humanities
 
