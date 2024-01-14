@@ -22,7 +22,7 @@ study of astrophysics, the history of the universe, and applied and theoretical 
 
 Specialization | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Introduction to Electricity and Magnetism Specialization](https://www.coursera.org/specializations/introduction-to-electricity-magnetism) | 2 Months | [Rice University](https://www.coursera.org/rice) | 
+[Introduction to Mechanics Specialization](https://www.coursera.org/specializations/introduction-to-mechanics) <br><br>Constituent Courses <br> 1.[Physics 101 - Forces and Kinematics ](https://www.coursera.org/learn/physics-101-forces-kinematics)<br><br> 2.[Physics 101 - Energy and Momentum](https://www.coursera.org/learn/physics-101-energy-momentum) <br><br> 3. [Physics 101 - Rotational Motion and Gravitation](https://www.coursera.org/learn/physics-101-rotational-motion-gravitation)| 2 Months | [Rice University](https://www.coursera.org/rice) | 
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
