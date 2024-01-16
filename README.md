@@ -53,7 +53,7 @@ Explore the field's eastern and western traditions, including specific schools o
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
 [Introduction to Philosophy](https://www.coursera.org/learn/philosophy) | 5 weeks | [The University of Edinburgh](https://www.coursera.org/edinburgh) | [Link](https://coursera.org/share/18c6fda9284ee2227e81ef54ca6062fb)
-[Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences](https://www.coursera.org/learn/philosophy-physical-sciences) | 4 weeks | [The University of Edinburgh](https://www.coursera.org/edinburgh) | [Link](https://coursera.org/share/31390a66374c63fa01b70ae68a21b971)
+[Philosophy and the Sciences]<br><br>Constituent Courses <br> 1.[Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences](https://www.coursera.org/learn/philosophy-physical-sciences) <br><br>2.[Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences](https://www.coursera.org/learn/philosophy-cognitive-sciences)| 4 weeks <br> 4 weeks| [The University of Edinburgh](https://www.coursera.org/edinburgh) | [Link](https://coursera.org/share/31390a66374c63fa01b70ae68a21b971)
 
 ### Politics (Governance and Society)
 
