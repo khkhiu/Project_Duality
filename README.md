@@ -53,7 +53,7 @@ Explore the field's eastern and western traditions, including specific schools o
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
 [Introduction to Philosophy](https://www.coursera.org/learn/philosophy) | 5 weeks | [The University of Edinburgh](https://www.coursera.org/edinburgh) | [Link](https://coursera.org/share/18c6fda9284ee2227e81ef54ca6062fb)
-Philosophy and the Sciences<br><br> 1.[Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences](https://www.coursera.org/learn/philosophy-physical-sciences) <br><br>2.[Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences](https://www.coursera.org/learn/philosophy-cognitive-sciences)| 4 weeks <br> 4 weeks| [The University of Edinburgh](https://www.coursera.org/edinburgh) | [Link](https://coursera.org/share/31390a66374c63fa01b70ae68a21b971)
+Philosophy and the Sciences<br><br> 1.[Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences](https://www.coursera.org/learn/philosophy-physical-sciences) <br><br>2.[Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences](https://www.coursera.org/learn/philosophy-cognitive-sciences)| 4 weeks <br><br> 4 weeks| [The University of Edinburgh](https://www.coursera.org/edinburgh) | [Link](https://coursera.org/share/31390a66374c63fa01b70ae68a21b971)
 
 ### Politics (Governance and Society)
 
@@ -91,8 +91,7 @@ history of specific groups or time periods through courses on black history, wom
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[The Modern World, Part One: Global History from 1760 to 1910](https://www.coursera.org/learn/modern-world) | 7 weeks | [University of Virginia](https://www.coursera.org/uva) | [Link](https://coursera.org/share/aa722d9f7456a521ad6d455eddfbca92)
-[The Modern World, Part Two: Global History since 1910](https://www.coursera.org/learn/modern-world-2) | 7 weeks | [University of Virginia](https://www.coursera.org/uva) | 
+The Modern World <br><br> 1.[Part One: Global History from 1760 to 1910](https://www.coursera.org/learn/modern-world) | 7 weeks | [University of Virginia](https://www.coursera.org/uva) <br><br>2.[Part Two: Global History since 1910](https://www.coursera.org/learn/modern-world-2) | 7 weeks <br><br> 7 weeks | [University of Virginia](https://www.coursera.org/uva) | [Link 1](https://coursera.org/share/aa722d9f7456a521ad6d455eddfbca92) <br><br> [Link 2](https://coursera.org/share/c71cbdedae42701d23aaebae200e0891)
 
 ### Other Humanities
 
