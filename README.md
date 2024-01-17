@@ -91,7 +91,7 @@ history of specific groups or time periods through courses on black history, wom
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-The Modern World <br><br> 1.[Part One: Global History from 1760 to 1910](https://www.coursera.org/learn/modern-world) <br><br>2.[Part Two: Global History since 1910](https://www.coursera.org/learn/modern-world-2) | 7 weeks<br><br> 7 weeks | [University of Virginia](https://www.coursera.org/uva) | [Link 1](https://coursera.org/share/aa722d9f7456a521ad6d455eddfbca92) <br><br> [Link 2](https://coursera.org/share/c71cbdedae42701d23aaebae200e0891)
+The Modern World <br> 1.[Part One: Global History from 1760 to 1910](https://www.coursera.org/learn/modern-world) <br><br>2.[Part Two: Global History since 1910](https://www.coursera.org/learn/modern-world-2) | 7 weeks<br><br> 7 weeks | [University of Virginia](https://www.coursera.org/uva) | [Part One: Global History from 1760 to 1910](https://coursera.org/share/aa722d9f7456a521ad6d455eddfbca92) <br><br> [Part Two: Global History since 1910](https://coursera.org/share/c71cbdedae42701d23aaebae200e0891)
 
 ### Other Humanities
 
