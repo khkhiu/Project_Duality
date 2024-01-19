@@ -66,6 +66,8 @@ include international relations, policy, criminology, and racial and ethnic rela
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
 [Global Politics](https://www.coursera.org/learn/global-politics) | 4 Weeks | [Università di Napoli Federico II](https://www.coursera.org/unina) | [Link](https://coursera.org/share/06ae10d85c77efb8e466467b04349bd0)
+[Understanding Political Concepts](https://www.coursera.org/learn/understanding-political-concepts) | 4 Weeks | [Università di Napoli Federico II](https://www.coursera.org/unina) | [Link](https://coursera.org/share/09acec843ca0b8e0330c6109d9b15e38)
+
 ### Economics
 
 Economics courses explore how individuals and groups manage resources and react to scarcity. Subtopics include personal economics, economic policy,
