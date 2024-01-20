@@ -26,8 +26,9 @@ Specialization | Duration | Offered by | Link to certificate
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[A Brief History of Human Spaceflight](https://www.coursera.org/learn/human-spaceflight) | 11 weeks | [University of Houston](https://www.coursera.org/uh) | [Link](https://coursera.org/share/55e421409dfcd611c0952285844b4c67)
-[Space Safety](https://www.coursera.org/learn/spacesafety) | 9 weeks | [Technische Universität München (TUM)](https://www.coursera.org/tum) | 
+[A Brief History of Human Spaceflight](https://www.coursera.org/learn/human-spaceflight) | 11 weeks | [University of Houston](https://www.coursera.org/uh) | [A Brief History of Human Spaceflight](https://coursera.org/share/55e421409dfcd611c0952285844b4c67)
+[Space Safety](https://www.coursera.org/learn/spacesafety) | 9 weeks | [Technische Universität München (TUM)](https://www.coursera.org/tum) | [Space Safety](https://coursera.org/share/9b2a8c2e6d44b28b7b9ee464d5003d7c)
+
 ### Mathematics
 
 The study of math and logic combines the abstract science of numbers with quantitative reasoning that is fundamental in solving concrete problems.
@@ -52,7 +53,7 @@ Explore the field's eastern and western traditions, including specific schools o
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Introduction to Philosophy](https://www.coursera.org/learn/philosophy) | 5 weeks | [The University of Edinburgh](https://www.coursera.org/edinburgh) | [Link](https://coursera.org/share/18c6fda9284ee2227e81ef54ca6062fb)
+[Introduction to Philosophy](https://www.coursera.org/learn/philosophy) | 5 weeks | [The University of Edinburgh](https://www.coursera.org/edinburgh) | [Introduction to Philosophy](https://coursera.org/share/18c6fda9284ee2227e81ef54ca6062fb)
 
 ### Politics (Governance and Society)
 
@@ -65,8 +66,8 @@ include international relations, policy, criminology, and racial and ethnic rela
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Global Politics](https://www.coursera.org/learn/global-politics) | 4 Weeks | [Università di Napoli Federico II](https://www.coursera.org/unina) | [Link](https://coursera.org/share/06ae10d85c77efb8e466467b04349bd0)
-[Understanding Political Concepts](https://www.coursera.org/learn/understanding-political-concepts) | 4 Weeks | [Università di Napoli Federico II](https://www.coursera.org/unina) | [Link](https://coursera.org/share/09acec843ca0b8e0330c6109d9b15e38)
+[Global Politics](https://www.coursera.org/learn/global-politics) | 4 Weeks | [Università di Napoli Federico II](https://www.coursera.org/unina) | [Global Politics](https://coursera.org/share/06ae10d85c77efb8e466467b04349bd0)
+[Understanding Political Concepts](https://www.coursera.org/learn/understanding-political-concepts) | 4 Weeks | [Università di Napoli Federico II](https://www.coursera.org/unina) | [Global Politics](https://coursera.org/share/09acec843ca0b8e0330c6109d9b15e38)
 
 ### Economics
 
@@ -78,7 +79,7 @@ international economics, and economic development.
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Introduction to Economic Theories](https://www.coursera.org/learn/intro-economic-theories) | 8 Weeks | [Erasmus University Rotterdam](https://www.coursera.org/erasmus) | [Link](https://coursera.org/share/0234475233313bf289cdec6dee9f8000 )
+[Introduction to Economic Theories](https://www.coursera.org/learn/intro-economic-theories) | 8 Weeks | [Erasmus University Rotterdam](https://www.coursera.org/erasmus) | [Introduction to Economic Theories](https://coursera.org/share/0234475233313bf289cdec6dee9f8000 )
 [Financial Markets](https://www.coursera.org/learn/financial-markets-global) | 7 Weeks | [Yale University](https://www.coursera.org/yale) | 
 
 
@@ -103,4 +104,4 @@ This section will contain courses that do not fall into the other humanities cat
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Introduction to Psychology ](https://www.coursera.org/learn/introduction-psychology) | 6 weeks | [Yale University](https://www.coursera.org/yale) | [Link](https://coursera.org/share/70f6bfee4e07b388bf3ac37bda95e6ee)
+[Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology) | 6 weeks | [Yale University](https://www.coursera.org/yale) | [Introduction to Psychology](https://coursera.org/share/70f6bfee4e07b388bf3ac37bda95e6ee)
