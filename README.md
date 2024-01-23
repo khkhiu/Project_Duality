@@ -68,6 +68,7 @@ Courses | Duration | Offered by | Link to certificate
 :-- | :--: | :--: | :--: |
 [Global Politics](https://www.coursera.org/learn/global-politics) | 4 Weeks | [Università di Napoli Federico II](https://www.coursera.org/unina) | [Global Politics](https://coursera.org/share/06ae10d85c77efb8e466467b04349bd0)
 [Understanding Political Concepts](https://www.coursera.org/learn/understanding-political-concepts) | 4 Weeks | [Università di Napoli Federico II](https://www.coursera.org/unina) | [Understanding Political Concepts](https://coursera.org/share/09acec843ca0b8e0330c6109d9b15e38)
+[Comparative Political Systems](https://www.coursera.org/learn/comparative-political-systems) | 4 Weeks | [Università di Napoli Federico II](https://www.coursera.org/unina) | [Comparative Political Systems](https://coursera.org/share/233b39f70e98c935bad5e03ff619c0e0)
 
 ### Economics
 
