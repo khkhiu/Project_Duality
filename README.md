@@ -82,8 +82,8 @@ international economics, and economic development.
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
-[Introduction to Economic Theories](https://www.coursera.org/learn/intro-economic-theories) | 8 Weeks | [Erasmus University Rotterdam](https://www.coursera.org/erasmus) | [Introduction to Economic Theories](https://coursera.org/share/0234475233313bf289cdec6dee9f8000 )
-[Financial Markets](https://www.coursera.org/learn/financial-markets-global) | 7 Weeks | [Yale University](https://www.coursera.org/yale) | 
+[Introduction to Economic Theories](https://www.coursera.org/learn/intro-economic-theories) | 8 Weeks | [Erasmus University Rotterdam](https://www.coursera.org/erasmus) | [Introduction to Economic Theories](https://coursera.org/share/0234475233313bf289cdec6dee9f8000)
+Microeconomics <br> 1.[The Power of Markets](https://www.coursera.org/learn/microeconomics-part1) <br><br>2.[When Markets Fail](https://www.coursera.org/learn/microeconomics-part2) | 5 weeks<br><br> 5 weeks |  [University of Pennsylvania](https://www.coursera.org/penn) |  [Microeconomics: The Power of Markets](https://coursera.org/share/088e834c2dbcce463706ce05e395c0e8) <br><br>
 
 
 ### History
