@@ -105,6 +105,7 @@ This section will contain courses that do not fall into the other humanities cat
 
 **Topics covered**:
 `Psychology`
+`Theology`
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
