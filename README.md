@@ -109,3 +109,4 @@ This section will contain courses that do not fall into the other humanities cat
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
 [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology) | 6 weeks | [Yale University](https://www.coursera.org/yale) | [Introduction to Psychology](https://www.coursera.org/account/accomplishments/certificate/Y2SEVBZYGNBV)
+[Introduction to Religions & Ecology](https://www.coursera.org/learn/intro-religions-ecology) | 8 weeks | [Yale University](https://www.coursera.org/yale) | [Introduction to Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/9MX75DJSTAFX)
