@@ -60,6 +60,12 @@ Explore the field's eastern and western traditions, including specific schools o
 
 **Topics covered**:
 `Philosophy`
+`Logic`
+
+Specialization | Duration | Offered by | Link to certificate 
+:-- | :--: | :--: | :--: |
+[Introduction to Logic and Critical Thinking Specialization](https://www.coursera.org/specializations/logic-critical-thinking-duke) <br><br>Constituent Courses <br> 1.[Think Again I: How to Understand Arguments](https://www.coursera.org/learn/understanding-arguments) <br><br> 2.[Think Again II: How to Reason Deductively](https://www.coursera.org/learn/deductive-reasoning) <br><br> 3.[Think Again III: How to Reason Inductively](https://www.coursera.org/learn/inductive-reasoning)<br><br> 4.[Think Again IV: How to Avoid Fallacies](https://www.coursera.org/learn/logical-fallacies) | 2 months | [Duke University](https://www.coursera.org/duke) | [Introduction to Logic and Critical Thinking Specialization]() <br><br>Constituent Courses <br> 1.[Think Again I: How to Understand Arguments](https://www.coursera.org/account/accomplishments/certificate/UVEM5SBBB5UZ)
+
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
@@ -120,5 +126,5 @@ This section will contain courses that do not fall into the other humanities cat
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
 [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology) | 6 weeks | [Yale University](https://www.coursera.org/yale) | [Introduction to Psychology](https://www.coursera.org/account/accomplishments/certificate/Y2SEVBZYGNBV)
-Introduction to Religions & Ecology <br> 1.[Introduction to Religions & Ecology](https://www.coursera.org/learn/intro-religions-ecology) <br><br> 2.[Indigenous Religions & Ecology](https://www.coursera.org/learn/indigenous-religions-ecology) <br><br> 3.[South Asian Religions & Ecology](https://www.coursera.org/learn/south-asian-religions-ecology)| 8 weeks | [Yale University](https://www.coursera.org/yale) | 1.[Introduction to Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/9MX75DJSTAFX)<br><br> 2.[Indigenous Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/6XBYQACVE82D) <br><br> 3.[South Asian Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/FCTCTQ5KJWC6)
+Introduction to Religions & Ecology <br> 1.[Introduction to Religions & Ecology](https://www.coursera.org/learn/intro-religions-ecology) <br><br> 2.[Indigenous Religions & Ecology](https://www.coursera.org/learn/indigenous-religions-ecology) <br><br> 3.[South Asian Religions & Ecology](https://www.coursera.org/learn/south-asian-religions-ecology)<br><br> 4.[East Asian Religions & Ecology](https://www.coursera.org/learn/east-asian-religions-ecology)| 8 weeks | [Yale University](https://www.coursera.org/yale) | 1.[Introduction to Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/9MX75DJSTAFX)<br><br> 2.[Indigenous Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/6XBYQACVE82D) <br><br> 3.[South Asian Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/FCTCTQ5KJWC6)<br><br> 4.[East Asian Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/R84YQGY6TUE3)
 Journey of the Universe <br> 1.[Journey of the Universe: The Unfolding of Life](https://www.coursera.org/learn/journey-of-the-universe/)<br><br>  2.[Journey Conversations: Weaving Knowledge and Action](https://www.coursera.org/learn/journey-knowledge-action)| 6 weeks<br><br>7 weeks | [Yale University](https://www.coursera.org/yale) | 1.[Journey of the Universe: The Unfolding of Life](https://www.coursera.org/account/accomplishments/certificate/6Y8NRFDEFEB5)<br><br>2.[Journey Conversations: Weaving Knowledge and Action](https://www.coursera.org/account/accomplishments/certificate/36QN75FB32NU)
