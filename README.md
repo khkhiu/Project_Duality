@@ -28,6 +28,8 @@ Courses | Duration | Offered by | Link to certificate
 :-- | :--: | :--: | :--: |
 [A Brief History of Human Spaceflight](https://www.coursera.org/learn/human-spaceflight) | 11 weeks | [University of Houston](https://www.coursera.org/uh) | [A Brief History of Human Spaceflight](https://www.coursera.org/account/accomplishments/certificate/Q6SE2SNHPD4X)
 [Space Safety](https://www.coursera.org/learn/spacesafety) | 9 weeks | [Technische Universität München (TUM)](https://www.coursera.org/tum) | [Space Safety](https://www.coursera.org/account/accomplishments/certificate/DW7QKABYM2GS)
+[Space Exploration](https://www.coursera.org/learn/space-exploration) | 9 weeks | [Technische Universität München (TUM)](https://www.coursera.org/tum) | [Space Exploration](https://www.coursera.org/account/accomplishments/certificate/15PQMG8TXEMG)
+[Rocket Science for Everyone](https://www.coursera.org/learn/rocket-science-for-everyone/) | 5 weeks | [Yale University](https://www.coursera.org/yale) | [Rocket Science for Everyone](https://www.coursera.org/account/accomplishments/verify/HJ7B6C7Z4P3X)
 
 ### Mathematics
 
@@ -54,6 +56,12 @@ This section will contain courses that do not fall into the other science catego
 Specialization | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
 [Introduction to Environmental Science Specialization](https://www.coursera.org/specializations/environmental-science) <br><br>Constituent Courses <br> 1.[Environmental Science](https://www.coursera.org/learn/environmental-science) <br><br> 2.[Population, Food, and Soil](https://www.coursera.org/learn/population-food-and-soil) <br><br> 3.[Energy and Environment](https://www.coursera.org/learn/energy-and-environment) | 2 months | [Dartmouth College](https://www.coursera.org/dartmouth) | [Introduction to Environmental Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YPSDC6PAPX8H) <br><br>Constituent Courses <br> 1.[Environmental Science](https://www.coursera.org/account/accomplishments/certificate/MZEM7N8THXKJ) <br><br> 2.[Population, Food, and Soil](https://www.coursera.org/account/accomplishments/certificate/4CMQZ9H33JKY) <br><br> 3.[Energy and Environment](https://www.coursera.org/account/accomplishments/certificate/UPYVU2H2YVDX)
+
+Courses | Duration | Offered by | Link to certificate
+:-- | :--: | :--: | :--: |
+[Introduction to Systems Engineering](https://www.coursera.org/learn/systems-engineering) | 9 weeks | [UNSW Sydney (The University of New South Wales)](https://www.coursera.org/unsw) | [Introduction to Systems Engineering](https://coursera.org/share/738fc84d17bbd3eec03c81aa32fddf31)
+[Systems Thinking In Public Health](https://www.coursera.org/learn/systems-thinking/) | 4 weeks | [Johns Hopkins University](https://www.coursera.org/jhu) | [Systems Thinking In Public Health](https://www.coursera.org/account/accomplishments/certificate/5C9ZVJT8PKJQ)
+
 
 ### Philosophy
 
@@ -132,4 +140,3 @@ Courses | Duration | Offered by | Link to certificate
 [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology) | 6 weeks | [Yale University](https://www.coursera.org/yale) | [Introduction to Psychology](https://www.coursera.org/account/accomplishments/certificate/Y2SEVBZYGNBV)
 Introduction to Religions & Ecology <br> 1.[Introduction to Religions & Ecology](https://www.coursera.org/learn/intro-religions-ecology) <br><br> 2.[Indigenous Religions & Ecology](https://www.coursera.org/learn/indigenous-religions-ecology) <br><br> 3.[South Asian Religions & Ecology](https://www.coursera.org/learn/south-asian-religions-ecology)<br><br> 4.[East Asian Religions & Ecology](https://www.coursera.org/learn/east-asian-religions-ecology)<br><br> 5.[Western Religions & Ecology](https://www.coursera.org/learn/western-religions-ecology)| 8 weeks | [Yale University](https://www.coursera.org/yale) | 1.[Introduction to Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/9MX75DJSTAFX)<br><br> 2.[Indigenous Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/6XBYQACVE82D) <br><br> 3.[South Asian Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/FCTCTQ5KJWC6)<br><br> 4.[East Asian Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/R84YQGY6TUE3)<br><br> 5.[Western Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/7BTH26XFA7AY)
 Journey of the Universe <br> 1.[Journey of the Universe: The Unfolding of Life](https://www.coursera.org/learn/journey-of-the-universe/)<br><br>  2.[Journey Conversations: Weaving Knowledge and Action](https://www.coursera.org/learn/journey-knowledge-action)| 6 weeks<br><br>7 weeks | [Yale University](https://www.coursera.org/yale) | 1.[Journey of the Universe: The Unfolding of Life](https://www.coursera.org/account/accomplishments/certificate/6Y8NRFDEFEB5)<br><br>2.[Journey Conversations: Weaving Knowledge and Action](https://www.coursera.org/account/accomplishments/certificate/36QN75FB32NU)
-[Systems Thinking In Public Health](https://www.coursera.org/learn/systems-thinking/) | 4 weeks | [Johns Hopkins University](https://www.coursera.org/jhu) | [Systems Thinking In Public Health](https://www.coursera.org/account/accomplishments/certificate/5C9ZVJT8PKJQ)
