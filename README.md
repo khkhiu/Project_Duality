@@ -29,7 +29,7 @@ Courses | Duration | Offered by | Link to certificate
 [A Brief History of Human Spaceflight](https://www.coursera.org/learn/human-spaceflight) | 11 weeks | [University of Houston](https://www.coursera.org/uh) | [A Brief History of Human Spaceflight](https://www.coursera.org/account/accomplishments/certificate/Q6SE2SNHPD4X)
 [Space Safety](https://www.coursera.org/learn/spacesafety) | 9 weeks | [Technische Universität München (TUM)](https://www.coursera.org/tum) | [Space Safety](https://www.coursera.org/account/accomplishments/certificate/DW7QKABYM2GS)
 [Space Exploration](https://www.coursera.org/learn/space-exploration) | 9 weeks | [Technische Universität München (TUM)](https://www.coursera.org/tum) | [Space Exploration](https://www.coursera.org/account/accomplishments/certificate/15PQMG8TXEMG)
-[Rocket Science for Everyone](https://www.coursera.org/learn/rocket-science-for-everyone/) | 5 weeks | [Yale University](https://www.coursera.org/yale) | [Rocket Science for Everyone](https://www.coursera.org/account/accomplishments/verify/HJ7B6C7Z4P3X)
+[Rocket Science for Everyone](https://www.coursera.org/learn/rocket-science-for-everyone/) | 5 weeks | [Yale University](https://www.coursera.org/yale) | [Rocket Science for Everyone](https://www.coursera.org/account/accomplishments/certificate/HJ7B6C7Z4P3X)
 
 ### Mathematics
 
