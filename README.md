@@ -102,6 +102,9 @@ Courses | Duration | Offered by | Link to certificate
 [Understanding Political Concepts](https://www.coursera.org/learn/understanding-political-concepts) | 4 Weeks | [Università di Napoli Federico II](https://www.coursera.org/unina) | [Understanding Political Concepts](https://www.coursera.org/account/accomplishments/certificate/YP9LCAWVH7E4)
 [Comparative Political Systems](https://www.coursera.org/learn/comparative-political-systems) | 4 Weeks | [Università di Napoli Federico II](https://www.coursera.org/unina) | [Comparative Political Systems](https://www.coursera.org/account/accomplishments/certificate/W5PRN8RRCPZU)
 [Politics and Economics of International Energy](https://www.coursera.org/learn/global-energy) | 8 Weeks | [Sciences Po](https://www.coursera.org/partners/sciencespo) | [Politics and Economics of International Energy](https://www.coursera.org/account/accomplishments/certificate/EJ30WLGNCHC3)
+[Water Resources Management and Policy](https://www.coursera.org/learn/water-management) | 5 Weeks | [University of Geneva](https://www.coursera.org/partners/unige) | [Water Resources Management and Policy](https://www.coursera.org/account/accomplishments/certificate/O9Z2SEX3IGGD)
+[Water Cooperation and Diplomacy](https://www.coursera.org/learn/water-cooperation-and-diplomacy) | 5 Weeks | [University of Geneva](https://www.coursera.org/partners/unige) | [Water Cooperation and Diplomacy](https://www.coursera.org/account/accomplishments/certificate/VXFI5W92QW9P)
+[International Water Law](https://www.coursera.org/learn/international-water-law) | 5 Weeks | [University of Geneva](https://www.coursera.org/partners/unige) | [International Water Law](https://www.coursera.org/account/accomplishments/certificate/7T0W1YPKEVGT)
 
 ### Economics
 
@@ -119,6 +122,7 @@ Country Level Economics <br> 1.[Macroeconomic Variables and Markets](https://www
 [Financial Markets](https://www.coursera.org/learn/financial-markets-global) | 7 weeks | [Yale University](https://www.coursera.org/yale) | [Financial Markets](https://www.coursera.org/account/accomplishments/certificate/GRBLNTWABUPR)
 [Economics of Money and Banking](https://www.coursera.org/learn/money-banking) | 13 weeks | [Columbia University](https://www.coursera.org/columbia) | [Economics of Money and Banking](https://www.coursera.org/account/accomplishments/certificate/JSWHB8BYZTD9)
 [The Global Financial Crisis](https://www.coursera.org/learn/global-financial-crisis) | 13 weeks | [Yale University](https://www.coursera.org/yale) | [The Global Financial Crisis](https://www.coursera.org/account/accomplishments/certificate/LLAWLUM3DMKL)
+[Politics and Economics of International Energy](https://www.coursera.org/learn/global-energy) | 8 Weeks | [Sciences Po](https://www.coursera.org/partners/sciencespo) | [Politics and Economics of International Energy](https://www.coursera.org/account/accomplishments/certificate/EJ30WLGNCHC3)
 
 ### History
 
