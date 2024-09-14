@@ -144,6 +144,7 @@ This section will contain courses that do not fall into the other humanities cat
 `Psychology`
 `Theology`
 `Sociology`
+`Archaeology`
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
@@ -151,4 +152,5 @@ Courses | Duration | Offered by | Link to certificate
 Introduction to Religions & Ecology <br> 1.[Introduction to Religions & Ecology](https://www.coursera.org/learn/intro-religions-ecology) <br><br> 2.[Indigenous Religions & Ecology](https://www.coursera.org/learn/indigenous-religions-ecology) <br><br> 3.[South Asian Religions & Ecology](https://www.coursera.org/learn/south-asian-religions-ecology)<br><br> 4.[East Asian Religions & Ecology](https://www.coursera.org/learn/east-asian-religions-ecology)<br><br> 5.[Western Religions & Ecology](https://www.coursera.org/learn/western-religions-ecology)| 8 weeks | [Yale University](https://www.coursera.org/yale) | 1.[Introduction to Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/9MX75DJSTAFX)<br><br> 2.[Indigenous Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/6XBYQACVE82D) <br><br> 3.[South Asian Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/FCTCTQ5KJWC6)<br><br> 4.[East Asian Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/R84YQGY6TUE3)<br><br> 5.[Western Religions & Ecology](https://www.coursera.org/account/accomplishments/certificate/7BTH26XFA7AY)
 Journey of the Universe <br> 1.[Journey of the Universe: The Unfolding of Life](https://www.coursera.org/learn/journey-of-the-universe/)<br><br>  2.[Journey Conversations: Weaving Knowledge and Action](https://www.coursera.org/learn/journey-knowledge-action)| 6 weeks<br><br>7 weeks | [Yale University](https://www.coursera.org/yale) | 1.[Journey of the Universe: The Unfolding of Life](https://www.coursera.org/account/accomplishments/certificate/6Y8NRFDEFEB5)<br><br>2.[Journey Conversations: Weaving Knowledge and Action](https://www.coursera.org/account/accomplishments/certificate/36QN75FB32NU)
 [Classical Sociological Theory](https://www.coursera.org/learn/classical-sociological-theory) | 9 Weeks | [University of Amsterdam](https://www.coursera.org/partners/amsterdam) | [Classical Sociological Theory](https://www.coursera.org/account/accomplishments/certificate/37W7AXYCY03N)
+[Recovering the Humankind's Past and Saving the Universal Heritage](https://www.coursera.org/learn/classical-sociological-theory) | 8 Weeks | [Sapienza University of Rome](https://www.coursera.org/partners/sapienza) | [Recovering the Humankind's Past and Saving the Universal Heritage](https://www.coursera.org/account/accomplishments/certificate/UHZBU5UA4S1A)
 
