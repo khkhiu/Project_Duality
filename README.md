@@ -131,10 +131,13 @@ history of specific groups or time periods.
 
 **Topics covered**:
 `History`
+`Archaeology`
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
 The Modern World <br> 1.[Part One: Global History from 1760 to 1910](https://www.coursera.org/learn/modern-world) <br><br>2.[Part Two: Global History since 1910](https://www.coursera.org/learn/modern-world-2) | 7 weeks<br><br> 7 weeks | [University of Virginia](https://www.coursera.org/uva) | [Part One: Global History from 1760 to 1910](https://www.coursera.org/account/accomplishments/certificate/XNKR9TF42U89) <br><br> [Part Two: Global History since 1910](https://www.coursera.org/account/accomplishments/certificate/VMJG9H6YEQQ)
+[Recovering the Humankind's Past and Saving the Universal Heritage](https://www.coursera.org/learn/classical-sociological-theory) | 8 Weeks | [Sapienza University of Rome](https://www.coursera.org/partners/sapienza) | [Recovering the Humankind's Past and Saving the Universal Heritage](https://www.coursera.org/account/accomplishments/certificate/UHZBU5UA4S1A)
+
 
 ### Other Humanities
 
