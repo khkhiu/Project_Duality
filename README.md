@@ -37,7 +37,9 @@ The study of math and logic combines the abstract science of numbers with quanti
 
 **Topics covered**:
 `Mathematics`
-`Logic`
+`Discrete Mathematics`
+`Calculus`
+`Linear Algebra`
 
 Specialization | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
@@ -52,6 +54,8 @@ This section will contain courses that do not fall into the other science catego
 
 **Topics covered**:
 `Science`
+`Environmental Science`
+`Systems Engineering`
 
 Specialization | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
@@ -95,6 +99,7 @@ include international relations, policy, criminology, and racial and ethnic rela
 **Topics covered**:
 `Politics`
 `International Relations`
+`Diplomacy`
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
@@ -102,6 +107,7 @@ Courses | Duration | Offered by | Link to certificate
 [Understanding Political Concepts](https://www.coursera.org/learn/understanding-political-concepts) | 4 Weeks | [Università di Napoli Federico II](https://www.coursera.org/unina) | [Understanding Political Concepts](https://www.coursera.org/account/accomplishments/certificate/YP9LCAWVH7E4)
 [Comparative Political Systems](https://www.coursera.org/learn/comparative-political-systems) | 4 Weeks | [Università di Napoli Federico II](https://www.coursera.org/unina) | [Comparative Political Systems](https://www.coursera.org/account/accomplishments/certificate/W5PRN8RRCPZU)
 [Global Diplomacy – Diplomacy in the Modern World](https://www.coursera.org/learn/global-diplomacy) | 5 Weeks | [University of London](https://www.coursera.org/partners/london) | [Global Diplomacy – Diplomacy in the Modern World](https://www.coursera.org/account/accomplishments/certificate/ZVR96VSQ2URR)
+[Global Diplomacy: the United Nations in the World](https://www.coursera.org/learn/global-diplomacy-un) | 7 Weeks | [University of London](https://www.coursera.org/partners/london) | [Global Diplomacy – Diplomacy in the Modern World](https://www.coursera.org/account/accomplishments/certificate/2JOHASXIWX09)
 [Water Resources Management and Policy](https://www.coursera.org/learn/water-management) | 5 Weeks | [University of Geneva](https://www.coursera.org/partners/unige) | [Water Resources Management and Policy](https://www.coursera.org/account/accomplishments/certificate/O9Z2SEX3IGGD)
 [Water Cooperation and Diplomacy](https://www.coursera.org/learn/water-cooperation-and-diplomacy) | 5 Weeks | [University of Geneva](https://www.coursera.org/partners/unige) | [Water Cooperation and Diplomacy](https://www.coursera.org/account/accomplishments/certificate/VXFI5W92QW9P)
 [International Water Law](https://www.coursera.org/learn/international-water-law) | 5 Weeks | [University of Geneva](https://www.coursera.org/partners/unige) | [International Water Law](https://www.coursera.org/account/accomplishments/certificate/7T0W1YPKEVGT)
