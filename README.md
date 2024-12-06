@@ -71,6 +71,7 @@ Courses | Duration | Offered by | Link to certificate
 [Sustainable Food Systems](https://www.coursera.org/learn/sustainable-food-systems) | 4 weeks |  [University of Illinois at Urbana-Champaign](https://www.coursera.org/illinois) | [Sustainable Food System](https://www.coursera.org/account/accomplishments/certificate/24AL1EPKQ2J4)
 [Deep Time: Discovering an Ancient Earth](https://www.coursera.org/learn/deep-time-discovering-an-ancient-earth) | 4 weeks | [University of Colorado Boulder](https://www.coursera.org/partners/boulder) | [Deep Time: Discovering an Ancient Earth](https://www.coursera.org/account/accomplishments/certificate/8K77W2ICK38C)
 [Oceanography: a key to better understand our world](https://www.coursera.org/learn/oceanography) | 7 weeks | [Universitat de Barcelona](https://www.coursera.org/partners/ub) | [Oceanography: a key to better understand our world](https://www.coursera.org/account/accomplishments/certificate/ZSJB5HMPXJYH)
+[Essentials of Global Health](https://www.coursera.org/learn/essentials-global-health) | 8 weeks | [Yale University](https://www.coursera.org/yale) | [Essentials of Global Health](https://www.coursera.org/account/accomplishments/certificate/TXP2C3O43KHT)
 [Epidemiology: The Basic Science of Public Health](https://www.coursera.org/learn/epidemiology) | 6 weeks | [University of North Carolina at Chapel Hill](https://www.coursera.org/partners/unc) | [Epidemiology: The Basic Science of Public Health](https://www.coursera.org/account/accomplishments/certificate/O0V1FUXMEKPO)
 
 ### Philosophy
