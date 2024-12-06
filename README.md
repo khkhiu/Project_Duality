@@ -30,6 +30,8 @@ Courses | Duration | Offered by | Link to certificate
 [Space Safety](https://www.coursera.org/learn/spacesafety) | 9 weeks | [Technische Universität München (TUM)](https://www.coursera.org/tum) | [Space Safety](https://www.coursera.org/account/accomplishments/certificate/DW7QKABYM2GS)
 [Space Exploration](https://www.coursera.org/learn/space-exploration) | 9 weeks | [Technische Universität München (TUM)](https://www.coursera.org/tum) | [Space Exploration](https://www.coursera.org/account/accomplishments/certificate/15PQMG8TXEMG)
 [Rocket Science for Everyone](https://www.coursera.org/learn/rocket-science-for-everyone/) | 5 weeks | [Yale University](https://www.coursera.org/yale) | [Rocket Science for Everyone](https://www.coursera.org/account/accomplishments/certificate/HJ7B6C7Z4P3X)
+[Origins - Formation of the Universe, Solar System, Earth and Life](https://www.coursera.org/learn/origins-universe-solarsystem) | 12 Weeks | [University of Copenhagen](https://www.coursera.org/partners/ucph) | [Origins - Formation of the Universe, Solar System, Earth and Life](https://www.coursera.org/account/accomplishments/certificate/CACTCTMO8CSB)
+[The Discovery of the Higgs Boson](https://www.coursera.org/learn/the-discovery-of-the-higgs-boson) | 7 weeks | [The University of Edinburgh](https://www.coursera.org/edinburgh) | [The Discovery of the Higgs Boson](https://www.coursera.org/account/accomplishments/certificate/VDCNHBRVFMMK)
 
 ### Mathematics
 
@@ -56,6 +58,7 @@ This section will contain courses that do not fall into the other science catego
 `Science`
 `Environmental Science`
 `Systems Engineering`
+`Public Health`
 
 Specialization | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
@@ -68,8 +71,7 @@ Courses | Duration | Offered by | Link to certificate
 [Sustainable Food Systems](https://www.coursera.org/learn/sustainable-food-systems) | 4 weeks |  [University of Illinois at Urbana-Champaign](https://www.coursera.org/illinois) | [Sustainable Food System](https://www.coursera.org/account/accomplishments/certificate/24AL1EPKQ2J4)
 [Deep Time: Discovering an Ancient Earth](https://www.coursera.org/learn/deep-time-discovering-an-ancient-earth) | 4 weeks | [University of Colorado Boulder](https://www.coursera.org/partners/boulder) | [Deep Time: Discovering an Ancient Earth](https://www.coursera.org/account/accomplishments/certificate/8K77W2ICK38C)
 [Oceanography: a key to better understand our world](https://www.coursera.org/learn/oceanography) | 7 weeks | [Universitat de Barcelona](https://www.coursera.org/partners/ub) | [Oceanography: a key to better understand our world](https://www.coursera.org/account/accomplishments/certificate/ZSJB5HMPXJYH)
-
-
+[Epidemiology: The Basic Science of Public Health](https://www.coursera.org/learn/epidemiology) | 6 weeks | [University of North Carolina at Chapel Hill](https://www.coursera.org/partners/unc) | [Epidemiology: The Basic Science of Public Health](https://www.coursera.org/account/accomplishments/certificate/O0V1FUXMEKPO)
 
 ### Philosophy
 
@@ -111,6 +113,9 @@ Courses | Duration | Offered by | Link to certificate
 [Water Resources Management and Policy](https://www.coursera.org/learn/water-management) | 5 Weeks | [University of Geneva](https://www.coursera.org/partners/unige) | [Water Resources Management and Policy](https://www.coursera.org/account/accomplishments/certificate/O9Z2SEX3IGGD)
 [Water Cooperation and Diplomacy](https://www.coursera.org/learn/water-cooperation-and-diplomacy) | 5 Weeks | [University of Geneva](https://www.coursera.org/partners/unige) | [Water Cooperation and Diplomacy](https://www.coursera.org/account/accomplishments/certificate/VXFI5W92QW9P)
 [International Water Law](https://www.coursera.org/learn/international-water-law) | 5 Weeks | [University of Geneva](https://www.coursera.org/partners/unige) | [International Water Law](https://www.coursera.org/account/accomplishments/certificate/7T0W1YPKEVGT)
+[International Security Management](https://www.coursera.org/learn/international-security-management) | 7 Weeks | [Erasmus University Rotterdam](https://www.coursera.org/erasmus) | [International Security Management](https://www.coursera.org/account/accomplishments/certificate/OIOEFEBG07NS)
+[Moral Foundations of Politics](https://www.coursera.org/learn/moral-politics) | 8 weeks | [Yale University](https://www.coursera.org/yale) | [Moral Foundations of Politics](https://www.coursera.org/account/accomplishments/certificate/C8WPU34IQNIH)
+[Citizenship and the Rule of Law](https://www.coursera.org/learn/citizenship-rule-of-law) | 6 Weeks | [University of London](https://www.coursera.org/partners/london) | [Citizenship and the Rule of Law](https://www.coursera.org/account/accomplishments/certificate/NMPKN80I18M5)
 
 ### Economics
 
@@ -129,6 +134,9 @@ Country Level Economics <br> 1.[Macroeconomic Variables and Markets](https://www
 [Economics of Money and Banking](https://www.coursera.org/learn/money-banking) | 13 weeks | [Columbia University](https://www.coursera.org/columbia) | [Economics of Money and Banking](https://www.coursera.org/account/accomplishments/certificate/JSWHB8BYZTD9)
 [The Global Financial Crisis](https://www.coursera.org/learn/global-financial-crisis) | 13 weeks | [Yale University](https://www.coursera.org/yale) | [The Global Financial Crisis](https://www.coursera.org/account/accomplishments/certificate/LLAWLUM3DMKL)
 [Politics and Economics of International Energy](https://www.coursera.org/learn/global-energy) | 8 Weeks | [Sciences Po](https://www.coursera.org/partners/sciencespo) | [Politics and Economics of International Energy](https://www.coursera.org/account/accomplishments/certificate/EJ30WLGNCHC3)
+[Internet Giants: The Law and Economics of Media Platforms](https://www.coursera.org/learn/internetgiants) | 11 Weeks | [University of Chicago](https://www.coursera.org/partners/chicago) | [Internet Giants: The Law and Economics of Media Platforms](https://www.coursera.org/account/accomplishments/certificate/ER4AIDRH9UZY)
+[Principles of Sustainable Finance](https://www.coursera.org/learn/sustainable-finance) | 9 Weeks | [Erasmus University Rotterdam](https://www.coursera.org/erasmus) | [Principles of Sustainable Finance](https://www.coursera.org/account/accomplishments/certificate/NLTNESNP22MA)
+[Narrative Economics](https://www.coursera.org/learn/narrative-economics) | 4 weeks | [Yale University](https://www.coursera.org/yale) | [Narrative Economics](https://www.coursera.org/account/accomplishments/certificate/JOMMGE94TDV9)
 
 ### History
 
@@ -143,7 +151,7 @@ Courses | Duration | Offered by | Link to certificate
 :-- | :--: | :--: | :--: |
 The Modern World <br> 1.[Part One: Global History from 1760 to 1910](https://www.coursera.org/learn/modern-world) <br><br>2.[Part Two: Global History since 1910](https://www.coursera.org/learn/modern-world-2) | 7 weeks<br><br> 7 weeks | [University of Virginia](https://www.coursera.org/uva) | [Part One: Global History from 1760 to 1910](https://www.coursera.org/account/accomplishments/certificate/XNKR9TF42U89) <br><br> [Part Two: Global History since 1910](https://www.coursera.org/account/accomplishments/certificate/VMJG9H6YEQQ)
 [Recovering the Humankind's Past and Saving the Universal Heritage](https://www.coursera.org/learn/classical-sociological-theory) | 8 Weeks | [Sapienza University of Rome](https://www.coursera.org/partners/sapienza) | [Recovering the Humankind's Past and Saving the Universal Heritage](https://www.coursera.org/account/accomplishments/certificate/UHZBU5UA4S1A)
-
+[Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history) | 11 Weeks | [University of Michigan](https://www.coursera.org/partners/umich) | [Internet History, Technology, and Security](https://www.coursera.org/account/accomplishments/certificate/GBG9GDACODC4)
 
 ### Other Humanities
 
@@ -153,6 +161,7 @@ This section will contain courses that do not fall into the other humanities cat
 `Psychology`
 `Theology`
 `Sociology`
+`Sustainablility`
 
 Courses | Duration | Offered by | Link to certificate 
 :-- | :--: | :--: | :--: |
@@ -162,3 +171,4 @@ Journey of the Universe <br> 1.[Journey of the Universe: The Unfolding of Life](
 [Classical Sociological Theory](https://www.coursera.org/learn/classical-sociological-theory) | 9 Weeks | [University of Amsterdam](https://www.coursera.org/partners/amsterdam) | [Classical Sociological Theory](https://www.coursera.org/account/accomplishments/certificate/37W7AXYCY03N)
 [Sustainable Development - Ideas and Imaginaries](https://www.coursera.org/learn/sustainable-development-ideas-and-imaginaries) | 4 Weeks | [University of Copenhagen](https://www.coursera.org/partners/ucph) | [Sustainable Development - Ideas and Imaginaries](https://www.coursera.org/account/accomplishments/certificate/ISSB4C0O74U6)
 [The Sustainable Development Goals – A global, transdisciplinary vision for the future](https://www.coursera.org/learn/global-sustainable-development) | 3 Weeks | [University of Copenhagen](https://www.coursera.org/partners/ucph) | [The Sustainable Development Goals – A global, transdisciplinary vision for the future](https://www.coursera.org/account/accomplishments/certificate/KOO4F1QT1IT6)
+[Working for a sustainable future: concepts and approaches](https://www.coursera.org/learn/working-for-a-sustainable-future) | 5 Weeks | [Lund University](https://www.coursera.org/partners/lunduniversity) | [Working for a sustainable future: concepts and approaches](https://www.coursera.org/account/accomplishments/certificate/1R66UVV6FOUK)
